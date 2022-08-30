@@ -4,8 +4,6 @@ https://devocean.sk.com/experts/techBoardDetail.do?ID=163718&page=2&searchData=P
 
 C -> Python
 
-이때 .pyd는 Python C-API를 사용하여 작성된 확장 모듈이미 컴파일된 상태의 파일이다.
-
 ## 핵심요소
 
 - PyObject : Python에서 사용(한/될) 객체타입
